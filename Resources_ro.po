@@ -115,7 +115,7 @@ msgstr "Instrumente"
 
 #: Editor.java:662 EditorToolbar.java:41 EditorToolbar.java:46
 msgid "Serial Monitor"
-msgstr "Monitorizare seriala"
+msgstr "Monitorizare serială"
 
 #: Editor.java:682
 msgid "Board"
@@ -219,11 +219,11 @@ msgstr "Lipire"
 
 #: Editor.java:1184 Editor.java:2692
 msgid "Select All"
-msgstr "Selectează totală"
+msgstr "Selecteare totală"
 
 #: Editor.java:1194 Editor.java:2702
 msgid "Comment/Uncomment"
-msgstr "Comentariu/Elimina comentariu"
+msgstr "Pune comentariu/Elimină comentariu"
 
 #: Editor.java:1202 Editor.java:2710
 msgid "Increase Indent"
@@ -1626,4 +1626,4 @@ msgstr "(editează doar atunci când Arduino IDE nu funcţionează)"
 #: Preferences.java:630
 #, java-format
 msgid "ignoring invalid font size {0}"
-msgstr "ignoră dimensiunea incorecta pentru fontul {0}"
+msgstr "ignoră dimensiunea incorectă pentru fontul {0}"
