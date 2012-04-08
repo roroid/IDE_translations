@@ -1463,79 +1463,79 @@ msgstr "Răsfoire"
 
 #: Preferences.java:115
 msgid "Catalan"
-msgstr ""
+msgstr "Catalană"
 
 #: Preferences.java:116
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "Chineză simplificată"
 
 #: Preferences.java:117
 msgid "Chinese Taiwan"
-msgstr ""
+msgstr "Chineză Taiwan"
 
 #: Preferences.java:118
 msgid "Danish"
-msgstr ""
+msgstr "Daneză"
 
 #: Preferences.java:119
 msgid "Dutch"
-msgstr ""
+msgstr "Olandeză"
 
 #: Preferences.java:120
 msgid "English"
-msgstr ""
+msgstr "Engleză"
 
 #: Preferences.java:121
 msgid "French"
-msgstr ""
+msgstr "Franceză"
 
 #: Preferences.java:122
 msgid "Filipino"
-msgstr ""
+msgstr "Filipineză"
 
 #: Preferences.java:123
 msgid "Galician"
-msgstr ""
+msgstr "Galeză"
 
 #: Preferences.java:124
 msgid "German"
-msgstr ""
+msgstr "Germană"
 
 #: Preferences.java:125
 msgid "Greek"
-msgstr ""
+msgstr "Greacă"
 
 #: Preferences.java:126
 msgid "Hungarian"
-msgstr ""
+msgstr "Maghiară"
 
 #: Preferences.java:127
 msgid "Italian"
-msgstr ""
+msgstr "Italiană"
 
 #: Preferences.java:128
 msgid "Japanese"
-msgstr ""
+msgstr "Japoneză"
 
 #: Preferences.java:129
 msgid "Latvian"
-msgstr ""
+msgstr "Letonă"
 
 #: Preferences.java:130
 msgid "Persian"
-msgstr ""
+msgstr "Persană"
 
 #: Preferences.java:131
 msgid "Portuguese (Brazil)"
-msgstr ""
+msgstr "Portugheză"
 
 #: Preferences.java:132
 msgid "Romanian"
-msgstr ""
+msgstr "Română"
 
 #: Preferences.java:133
 msgid "Spanish"
-msgstr ""
+msgstr "Spaniolă"
 
 #: Preferences.java:222
 msgid ""
@@ -1613,7 +1613,7 @@ msgstr "Asociază fişierele .ino cu Arduino"
 
 #: Preferences.java:429
 msgid "Preferred Language: "
-msgstr ""
+msgstr "Limba preferată:"
 
 #: Preferences.java:454
 msgid "More preferences can be edited directly in the file"
